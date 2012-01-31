@@ -7,7 +7,7 @@
  **/
 $1class $2
 {$0
-} // END $1class $2]]></content>
+} // End $2]]></content>
     <tabTrigger>doc_c</tabTrigger>
     <scope>source.php</scope>
     <description>Class</description>

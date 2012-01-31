@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": 1328014302,
 	"installed_packages":
 	[
-		"DocBlockr"
+		"DocBlockr",
+		"LESS"
 	]
 }

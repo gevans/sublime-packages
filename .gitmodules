@@ -1,0 +1,3 @@
+[submodule "Kohana"]
+	path = Kohana
+	url = git://github.com/gevans/kohana-sublime-package.git

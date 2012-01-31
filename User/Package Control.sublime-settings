@@ -4,6 +4,7 @@
 	[
 		"CoffeeScript",
 		"DocBlockr",
+		"Haml",
 		"LESS"
 	]
 }

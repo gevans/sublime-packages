@@ -50,6 +50,11 @@
 		<string>rbx</string>
 		<string>rjs</string>
 		<string>Rakefile</string>
+		<string>Vagrantfile</string>
+		<string>Gemfile</string>
+		<string>Guardfile</string>
+		<string>Cheffile</string>
+		<string>config.ru</string>
 		<string>rake</string>
 		<string>cgi</string>
 		<string>fcgi</string>

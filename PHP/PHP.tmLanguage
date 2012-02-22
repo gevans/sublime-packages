@@ -3331,7 +3331,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>(?i)\b(ob_gzhandler|zlib_get_coding_type|readgzfile|gz(compress|inflate|deflate|open|uncompress|encode|file))(?=\s*\()</string>
+					<string>(?i)\b(ob_gzhandler|zlib_get_coding_type|readgzfile|gz(compress|inflate|deflate|open|close|write|puts|uncompress|encode|file))(?=\s*\()</string>
 					<key>name</key>
 					<string>support.function.zlib.php</string>
 				</dict>

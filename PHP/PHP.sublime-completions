@@ -1137,6 +1137,7 @@
 		{ "trigger": "gzgetss", "contents": "gzgetss(${1:zp}, ${2:length})" },
 		{ "trigger": "gzinflate", "contents": "gzinflate(${1:data})" },
 		{ "trigger": "gzopen", "contents": "gzopen(${1:filename}, ${2:mode})" },
+		{ "trigger": "gzclose", "contents": "gzclose(${1:resource}" },
 		{ "trigger": "gzpassthru", "contents": "gzpassthru(${1:zp})" },
 		{ "trigger": "gzputs", "contents": "gzputs()" },
 		{ "trigger": "gzread", "contents": "gzread(${1:zp}, ${2:length})" },

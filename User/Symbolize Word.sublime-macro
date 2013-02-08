@@ -1,0 +1,25 @@
+[
+  {
+    "args":
+    {
+      "by": "words",
+      "forward": false
+    },
+    "command": "move"
+  },
+  {
+    "args":
+    {
+      "characters": ":"
+    },
+    "command": "insert"
+  },
+  {
+    "args":
+    {
+      "by": "word_ends",
+      "forward": true
+    },
+    "command": "move"
+  }
+]

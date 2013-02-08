@@ -1,0 +1,5 @@
+[
+  { "keys": ["ctrl+k"], "command": "run_macro_file", "args": {"file": "Packages/User/Symbolize Word.sublime-macro"} },
+  { "keys": ["ctrl+j"], "command": "insert", "args": {"characters": "->"} },
+  { "keys": ["ctrl+l"], "command": "insert", "args": {"characters": " => "} }
+]

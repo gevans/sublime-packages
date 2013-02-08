@@ -21,3 +21,8 @@ primary tool?
               $HOME/Libary/Application\ Support/Sublime\ Text\ 3/Packages \
               --branch sublime-3 --recursive
     ```
+
+3. Install a better monospace font
+   ([Envy Code R](http://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released)).
+
+4. Restart Sublime.

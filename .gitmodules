@@ -1,0 +1,6 @@
+[submodule "RSpec"]
+	path = RSpec
+	url = git://github.com/gevans/sublime-rspec.git
+[submodule "DetectSyntax"]
+	path = DetectSyntax
+	url = git://github.com/gevans/sublime-detect-syntax.git

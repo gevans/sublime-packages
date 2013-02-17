@@ -4,3 +4,6 @@
 [submodule "DetectSyntax"]
 	path = DetectSyntax
 	url = git://github.com/gevans/sublime-detect-syntax.git
+[submodule "Cucumber"]
+	path = Cucumber
+	url = git://github.com/npverni/cucumber-sublime2-bundle.git

@@ -7,3 +7,6 @@
 [submodule "Cucumber"]
 	path = Cucumber
 	url = git://github.com/npverni/cucumber-sublime2-bundle.git
+[submodule "Mirah"]
+	path = Mirah
+	url = git://github.com/ishikawa/sublime-text-2-mirah.git

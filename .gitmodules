@@ -10,3 +10,6 @@
 [submodule "Mirah"]
 	path = Mirah
 	url = git://github.com/ishikawa/sublime-text-2-mirah.git
+[submodule "SCSS"]
+	path = SCSS
+	url = git://github.com/danro/SCSS-sublime.git

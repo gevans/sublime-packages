@@ -13,3 +13,6 @@
 [submodule "SCSS"]
 	path = SCSS
 	url = git://github.com/danro/SCSS-sublime.git
+[submodule "Slim"]
+	path = Slim
+	url = git://github.com/slim-template/ruby-slim.tmbundle.git

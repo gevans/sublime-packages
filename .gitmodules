@@ -16,3 +16,6 @@
 [submodule "Slim"]
 	path = Slim
 	url = git://github.com/slim-template/ruby-slim.tmbundle.git
+[submodule "CoffeeScript"]
+	path = CoffeeScript
+	url = git://github.com/aponxi/sublime-better-coffeescript.git
